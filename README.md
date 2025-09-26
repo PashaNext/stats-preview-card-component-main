@@ -11,7 +11,7 @@
 
 ### Links
 
-- Solution URL:
+- Solution URL: https://pashanext.github.io/stats-preview-card-component-main/
 
 ### Built with
 
